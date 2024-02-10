@@ -1,0 +1,28 @@
+.about{
+
+    background-color: #1ABC9C;
+    padding: 90px;
+
+}
+
+h1{
+
+    font-weight: 700;
+}
+
+
+.line{
+
+    display: block;
+
+    width: 100px;
+    height: 5px;
+
+    background-color: white;
+}
+
+.col-md-6{
+
+    padding-block: 80px;
+    font-size: 18px; 
+}

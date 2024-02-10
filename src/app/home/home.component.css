@@ -1,0 +1,36 @@
+
+.home{
+
+    background-color: #1ABC9C;
+    padding: 90px;
+}
+
+.home-img img{
+
+    width:210px ;
+}
+
+h1{
+
+    font-weight: 700;
+}
+
+.home-title{
+
+    padding-top: 10px;
+}
+
+.home-parag{
+
+    padding-top: 10px;
+}
+
+.line{
+
+    display: block;
+
+    width: 100px;
+    height: 5px;
+
+    background-color: white;
+}

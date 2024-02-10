@@ -1,0 +1,35 @@
+
+.navbar{
+
+    background-color: #2C3E50;
+    padding: 20px;
+    transition: all 1s;
+}
+
+.navbar-brand{
+
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.nav-link{
+
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+
+
+}
+
+.link-active{
+
+    background-color: #1ABC9C;
+
+}
+
+.navbar.scrolled{
+
+    padding: 10px;
+}
+

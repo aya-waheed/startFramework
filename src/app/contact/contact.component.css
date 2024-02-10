@@ -1,0 +1,33 @@
+.contact{
+
+    background-color: #FFFFFF;
+    padding: 105px;
+}
+
+h1{
+
+    color: #2C3E50;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+i{
+
+    color:#2C3E50 ;
+}
+
+
+.line{
+
+    display: block;
+
+    width: 100px;
+    height: 5px;
+
+    background-color: #2C3E50;
+}
+
+.form-control{
+
+    box-shadow: none;
+}

@@ -1,0 +1,33 @@
+.info{
+
+    background-color: #2C3E50;
+    padding: 40px;
+    text-align: center;
+}
+
+ul{
+
+    padding-top: 10px;
+}
+
+li{
+
+   margin-left: 30px;
+   cursor: pointer;
+
+}
+
+i{
+
+    font-size: 20px;
+
+    width: 40px;
+
+    height: 40px;
+
+    border: 1px solid white;
+
+    border-radius: 50%;
+
+    padding-top: 10px ;
+}
